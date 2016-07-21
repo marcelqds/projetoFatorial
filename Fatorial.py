@@ -1,4 +1,5 @@
 class Fatorial:
+	""" Versão Interativa do calculo do Fatorial """
         def __init__(self, valor):
                 self.valor = int(valor)
                 self.resultadoFatorial()         
