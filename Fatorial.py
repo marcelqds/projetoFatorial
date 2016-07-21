@@ -14,8 +14,8 @@ class Fatorial:
         
 
 
-fat = Fatorial(4)
-print fat
+#fat = Fatorial(4)
+#print fat
 	
 	
 
