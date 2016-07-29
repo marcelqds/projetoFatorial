@@ -14,7 +14,7 @@ class Fatorial:
                 return "Fatorial de %d = %d" %(self.valor, self.resultado)
         
 
-
+# Incluindo um teste para merge
 #fat = Fatorial(4)
 #print fat
 	
