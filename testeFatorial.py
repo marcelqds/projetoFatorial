@@ -1,5 +1,5 @@
 #!/usr/bin/python
-"""Incluindo um comentario, outra pequena mudança na documentação """
+"""Incluindo um comentario, pequena mudança """
 
 from Fatorial import Fatorial
 print "\n\n----- Program from calculete Fatorial ----- \n\n"
