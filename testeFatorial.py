@@ -1,4 +1,5 @@
 #!/usr/bin/python
+"""Incluindo um comentario """
 
 from Fatorial import Fatorial
 print "\n\n----- Program from calculete Fatorial ----- \n\n"
